@@ -1,20 +1,25 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: User Login Page 
+about: https://mdbootstrap.com/docs/react/forms/basic/#form-register
 title: ''
 labels: ''
-assignees: ''
+assignees: 'Muhammad Uzair'
 
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Yes actually we need a user authentication, in which session will start for the each user and allow them to cast the vote. In addition to this, it will store the date/time for each user once they get to the vote casting screen as well as store the name of the user.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+I think, we can add some predefined login credentials matching with student/user Roll No. For Example:
+
+Username: 166002
+Passwrod: ****** (Any Unique Passwords we will store for each user which we will use for validation purposes)
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+N/A
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+https://mdbootstrap.com/docs/react/forms/basic/#form-register
+
+Here is the link we can use form template.
